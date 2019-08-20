@@ -1,6 +1,6 @@
 # CNN Text Clasification
 
-Please visit [my blog post](https://rifqifai.com) for more detail.
+Please visit [my blog post](https://rifqifai.com/implementasi-metode-convolutional-neural-network-untuk-klasifikasi-teks/) for more detail.
 
 ## Intisari
 
